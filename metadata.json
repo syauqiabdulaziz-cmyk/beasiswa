@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Beasiswa SMK Komputama Majenang (SAW)",
+  "description": "Sistem Pendukung Keputusan Penerimaan Beasiswa Internal SMK Komputama Majenang menggunakan Metode Simple Additive Weighting (SAW).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
